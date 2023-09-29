@@ -1,0 +1,10 @@
+main:
+  - name: Classes
+    url: /classes/
+    weight: 1
+  # - name: Posts
+  #   url: /posts/
+  #   weight: 2
+  # - name: Docs
+  #   url: /docs/
+  #   weight: 3
