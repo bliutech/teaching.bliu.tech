@@ -3,7 +3,7 @@ title: Benson Liu
 draft: false
 role: Learning Assistant (LA)
 avatar: images/bliu.png
-bio: Office Hours. TBD.
+bio: Office Hours. TBD. If you would like to meet with me at a separate time, please email me to schedule a time.
 organization:
   name: COM SCI 35L @ UCLA
   url: https://web.cs.ucla.edu/classes/fall23/cs35L/index.html
@@ -44,6 +44,9 @@ widget:
 ---
 
 ## ✏️ About Me
-Hi, I am Benson! 👋 I am a computer science major at UCLA who is passionate about teaching. 📝 I am someone who likes to help students understand the *why* behind what they are learning, particular for computer science & cybersecurity. This website acts as a single place to hold any content or resources I develop for classes I help teach. It also is a small project to let me try out Hugo.
+Hi, I am Benson! 👋 I am a computer science major at UCLA who is passionate about teaching. 📝 I am someone who likes to help students understand the *why* behind what they are learning, particular for computer science & cybersecurity. This website acts as a single place to hold any content or resources I develop for classes I help teach. It also is a small project to let me try out [Hugo](https://gohugo.io/).
 
 If you are a student in one of my classes, feel free to reach out to me via email or on Piazza. I am always happy to help! 🤗 If you are a fellow instructor interested in chatting about education, I am happy to do that as well. 👨‍🏫
+
+## 📝 Privacy
+I use [Google Analytics](https://marketingplatform.google.com/about/analytics/) on this website to get a better sense of my content’s traffic and audience.
