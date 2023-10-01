@@ -1,5 +1,5 @@
 # ✏️ [teaching.bliu.tech](https://teaching.bliu.tech)
-This repository hold the source code for my teaching website, [https://teaching.bliu.tech]. This is meant to host content & resources I develop for classes I help teach. It also is a small project to let me try out Hugo.
+This repository hold the source code for my teaching website, [https://teaching.bliu.tech](https://teaching.bliu.tech). This is meant to host content & resources I develop for classes I help teach. It also is a small project to let me try out Hugo.
 
 ## Development
 I use the [Eureka](https://github.com/wangchucheng/hugo-eureka) theme for Hugo. Please check out some resources below for how to develop/setup this site locally. You should be able to run the following command once all of the dependencies are complete.
